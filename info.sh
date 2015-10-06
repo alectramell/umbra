@@ -2,10 +2,6 @@
 
 clear
 
-USERNAME=$(whoami)
-
-clear
-
 echo "UMBRA v1.0"
-
-cat /home/$USERNAME/umbra/README.md && sleep 5
+echo "Apollon Data Metrics (AGY)"
+echo "http://facebook.com/apollondma"
