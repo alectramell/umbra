@@ -20,4 +20,6 @@ cd /home/$USERNAME/ && git clone https://github.com/alectramell/umbra.git
 
 clear
 
-echo "DONE!" && read && clear
+sh /home/$USERNAME/umbra/scripts.sh
+
+clear
