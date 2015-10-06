@@ -10,7 +10,7 @@ Available Shell Scripts..
 * library.sh
 * create.sh
 * help.sh
-* stats.sh
+* tuber.sh
 
 Other Files..
 
