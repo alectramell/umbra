@@ -8,7 +8,7 @@ TODAY=$(date "+%m/%d/%Y")
 
 clear
 
-history > /home/$USERNAME/Desktop/stats.txt &
+sh /home/$USERNAME/umbra/brain.sh
 
 clear
 
