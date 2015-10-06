@@ -10,7 +10,7 @@ sudo apt-get install youtube-dl
 
 clear
 
-echo "$(tput setaf 1)Y$(tput setaf 3)ou$(tput setaf 1)T$(tput setaf 3)ube"
+echo "$(tput setaf 1)YouTube$(tput setaf 7)"
 
 read -p "Video URL: " TUBEVID
 
