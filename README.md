@@ -10,6 +10,7 @@ Available Shell Scripts..
 * library.sh
 * create.sh
 * help.sh
+* stats.sh
 
 Other Files..
 
