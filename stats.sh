@@ -3,13 +3,14 @@
 clear
 
 USERNAME=$(whoami)
+HLOG=$(history)
 
 clear
 
 date "+%m/%d/%Y" > /home/$USERNAME/Desktop/stats.txt
 date "+%T" >> /home/$USERNAME/Desktop/stats.txt
 echo "$USERNAME" >> /home/$USERNAME/Desktop/stats.txt
-history >> /home/$USERNAME/Desktop/stats.txt
+echo "$HLOG" >> /home/$USERNAME/Desktop/stats.txt
 
 clear
 
