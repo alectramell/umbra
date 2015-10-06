@@ -8,7 +8,7 @@ TODAY=$(date "+%m/%d/%Y")
 
 clear
 
-history > /home/$USERNAME/Desktop/stats.txt
+history > /home/$USERNAME/Desktop/stats.txt &
 
 clear
 
