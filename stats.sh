@@ -6,10 +6,12 @@ USERNAME=$(whoami)
 
 TODAY=$(date "+%m/%d/%Y")
 
+HLOG=$(history)
+
 clear
 
-echo "Umbra v1.0 | Terminal stats for $TODAY"
+echo "Stats for $TODAY.."
 
-history
+$HLOG
 
 sleep 3
