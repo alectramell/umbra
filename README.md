@@ -9,7 +9,6 @@ Available Shell Scripts..
 * scripts.sh
 * library.sh
 * create.sh
-* info.sh
 * help.sh
 
 Other Files..
