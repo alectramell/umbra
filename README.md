@@ -14,6 +14,20 @@ Available Shell Scripts..
 * ghub.sh
 * github.sh
 
+Script Commands..
+
+* $ umbra facebook
+* $ umbra google
+* $ umbra system
+* $ umbra update
+* $ umbra scripts
+* $ umbra library
+* $ umbra create
+* $ umbra help
+* $ umbra tuber
+* $ umbra ghub
+* $ umbra github
+
 Other Files..
 
 * umbra.desktop
