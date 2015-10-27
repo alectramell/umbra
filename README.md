@@ -11,6 +11,8 @@ Available Shell Scripts..
 * create.sh
 * help.sh
 * tuber.sh
+* ghub.sh
+* github.sh
 
 Other Files..
 
@@ -19,4 +21,4 @@ Other Files..
 
 Library Updates..
 
-* 10/06/2015
+* 10/27/2015
